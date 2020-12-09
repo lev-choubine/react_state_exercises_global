@@ -17,7 +17,7 @@ Let's get started!
 Change directories to the main directory you're storing your projects in. Inside it, run your command:
 
 ```sh
-$ create-react-app todo-list
+$ npx create-react-app todo-list
 ```
 
 The tool created a new directory for our app, so let's move into it...
